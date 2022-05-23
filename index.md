@@ -25,3 +25,6 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 * <a href="https://leonardompp.github.io/assets/classes/PFC_F_1_Criptografia.pdf">Introduction to public-key cryptography</a> (Portuguese)
 
 ### Additional Content
+
+* History Research project: <a href="https://leonardompp.github.io/assets/articles/napoleon_borodino.pdf">Comparison of Historical and Fictional Views Concerning the Battle of Borodino (1812)</a>
+* You can find some of my texts on military history <a href="https://www.profpedrosoares.com/blog/categories/historia-militar">here</a> (Portuguese)
