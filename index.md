@@ -1,4 +1,4 @@
-## Website Purpose
+## My Bio
 
 ### Fields of Interest
 
@@ -9,8 +9,6 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 ### Articles
 
 * <a href="https://leonardompp.github.io/assets/articles/acasxu.pdf">Horizontal Collision Avoidance Resolutions for Unmanned Quadcopters Using ACAS Xu</a>
-
-### Repositories
 
 ### Videos
 
