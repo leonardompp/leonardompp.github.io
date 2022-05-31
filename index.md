@@ -1,6 +1,10 @@
 ## My Bio
 
+My name is Leonardo Mouta. I am a 3rd year exchange student at ISAE-SUPAERO (France) currently specializing in autonomous systems and fluid dynamics. Former student at Brazil's Aeronautics Institute of Technology (ITA). Particularly interested in UAVs of all types. Other interests include Military History, literature and bad jokes.
+
 ### Fields of Interest
+
+
 
 ### CV
 
