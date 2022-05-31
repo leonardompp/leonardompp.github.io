@@ -25,7 +25,7 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 
 ### Videos
 
-* In this video, an autonomous quadcopter had to intercept the Roomba robot, which was controlled by a human operator. The drone then had to follow the Roomba around, followed by and automatic landing at the base point. Interception was achieved by modelling the quadrotor's behavior as an MDP:
+* In this video, an autonomous quadcopter had to intercept the Roomba robot, which was controlled by a human operator. The drone then had to follow the Roomba around, followed by an automatic landing at the base point. Interception was achieved by modeling the quadrotor's behavior as an MDP:
 
 <video width="320" height="240" controls>
   <source src="https://leonardompp.github.io/assets/videos/drone_intercept.mp4" type="video/mp4">
@@ -37,5 +37,5 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 
 ### Additional Content
 
-* History Research project: <a href="https://leonardompp.github.io/assets/articles/napoleon_borodino.pdf">Comparison of Historical and Fictional Views Concerning the Battle of Borodino (1812)</a>
+* History research project (done at ISAE-SUPAERO): <a href="https://leonardompp.github.io/assets/articles/napoleon_borodino.pdf">Comparison of Historical and Fictional Views Concerning the Battle of Borodino (1812)</a>
 * You can find some of my texts on military history <a href="https://www.profpedrosoares.com/blog/categories/historia-militar">here</a> (Portuguese)
