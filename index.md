@@ -38,4 +38,3 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 ### Additional Content
 
 * History research project (done at ISAE-SUPAERO): <a href="https://leonardompp.github.io/assets/articles/napoleon_borodino.pdf">Comparison of Historical and Fictional Views Concerning the Battle of Borodino (1812)</a>
-* You can find some of my texts on military history <a href="https://www.profpedrosoares.com/blog/categories/historia-militar">here</a> (Portuguese)
