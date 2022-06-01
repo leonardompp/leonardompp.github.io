@@ -34,6 +34,7 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 ### Lecture Notes
 
 * <a href="https://leonardompp.github.io/assets/classes/PFC_F_1_Criptografia.pdf">Introduction to public-key cryptography</a> (Portuguese)
+* <a href="https://leonardompp.github.io/assets/classes/PFC_F_2_Comp_Quantica.pdf">Introduction to quantum computing</a> (Portuguese)
 
 ### Additional Content
 
