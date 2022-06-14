@@ -23,6 +23,10 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 
 * <a href="https://leonardompp.github.io/assets/articles/acasxu.pdf">Horizontal Collision Avoidance Resolutions for Unmanned Quadcopters Using ACAS Xu</a>
 
+<center>
+  <img src="https://leonardompp.github.io/assets/img/acas.png" alt="ACAS Xu">
+</center>
+
 ### Videos
 
 * In this video, an autonomous quadcopter had to intercept the Roomba robot, which was controlled by a human operator. The drone then had to follow the Roomba around, followed by an automatic landing at the base point. Interception was achieved by modeling the quadrotor's behavior as an MDP:
