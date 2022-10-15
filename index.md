@@ -27,7 +27,7 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
   <img src="https://leonardompp.github.io/assets/img/acas.png" alt="ACAS Xu">
 </center>
 
-* <a href="https://leonardompp.github.io/assets/articles/quantum.pdf">Quantum Computers and Their Effects on Cryptographyu</a>
+* <a href="https://leonardompp.github.io/assets/articles/quantum.pdf">Quantum Computers and Their Effects on Cryptography</a>
 
 <center>
   <img src="https://leonardompp.github.io/assets/img/qpe.png" alt="QPE">
