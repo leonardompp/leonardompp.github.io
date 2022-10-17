@@ -33,6 +33,12 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
   <img src="https://leonardompp.github.io/assets/img/qpe.png" alt="QPE">
 </center>
 
+* <a href="https://leonardompp.github.io/assets/articles/Senior_Thesis_ISAE.pdf">Manipulating a cable-suspended object with multiple UAVs and environment contacts in 2D</a>
+
+<center>
+  <img src="https://leonardompp.github.io/assets/img/elements.png" alt="ELEMENTS">
+</center>
+
 ### Videos
 
 * In this video, an autonomous quadcopter had to intercept the Roomba robot, which was controlled by a human operator. The drone then had to follow the Roomba around, followed by an automatic landing at the base point. Interception was achieved by modeling the quadrotor's behavior as an MDP:
