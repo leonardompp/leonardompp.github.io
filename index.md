@@ -1,6 +1,6 @@
 ## My Bio
 
-My name is Leonardo Mouta. I am currently majoring in aerospace engineering as an exchange student at ISAE-SUPAERO (France), with specializations in autonomous systems and fluid dynamics. Former aerospace engineering student at Brazil's Aeronautics Institute of Technology (ITA). 
+My name is Leonardo Mouta. I am an aerospace engineer (MS - ISAE-SUPAERO, France; BS - Aeronautics Institute of Technology (ITA), Brazil), specializing in autonomous systems and fluid dynamics.
 
 ### Fields of Interest
 
