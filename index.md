@@ -1,19 +1,18 @@
 ## My Bio
 
-My name is Leonardo Mouta. I am currently a Master's student at Carnegie Mellon University's Robotics System Development program, class of 2025. Although currently a roboticist, my background is as an aerospace engineer (MS - ISAE-SUPAERO, France; BS - Aeronautics Institute of Technology, Brazil), specializing in autonomous systems and fluid dynamics. I also dabble in quantum computing (Minor Degree in Engineering Physics - Aeronautics Institute of Technology, Brazil) and cybersecurity.
+My name is Leonardo Mouta. I am currently a Master's student at Carnegie Mellon University's Robotics System Development program, class of 2025. Although currently a roboticist, my background is in aerospace engineering (MS - ISAE-SUPAERO, France; BS - Aeronautics Institute of Technology, Brazil), specializing in autonomous systems and fluid dynamics. I also dabble in quantum computing (Minor Degree in Engineering Physics - Aeronautics Institute of Technology, Brazil) and cybersecurity.
 
 ### Fields of Interest
 
-My main interest is autonomous systems, particularly UAVs of all types. Concerning UAVs, I have dealt with:
+My main interest is autonomous systems, particularly focusing in:
 
 * Path planning
 * Guidance and navigation
 * Control theory
 * Object manipulation
-* Collision avoidance
-* Etc.
+* Collision detection and avoidance
 
-Other interests include military history, literature and bad jokes.
+Other interests include cybersecurity, military history and literature. I also happen to know a vast collection of dad jokes and useless trivia.
 
 ### CV
 
