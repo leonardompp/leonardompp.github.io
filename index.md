@@ -50,6 +50,15 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 </video>
 </center>
 
+
+* Test:
+
+<center>
+<video width="320" height="240" controls>
+  <source src="https://leonardompp.github.io/assets/videos/slam.mp4" type="video/mp4">
+</video>
+</center>
+
 ### Lecture Notes
 
 * <a href="https://leonardompp.github.io/assets/classes/PFC_F_1_Criptografia.pdf">Introduction to public-key cryptography</a> (Portuguese)
