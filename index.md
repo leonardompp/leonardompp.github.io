@@ -51,7 +51,7 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 </center>
 
 
-* Test:
+* In this video, I simulated a prototype for an an autonomous differential drive robot using ROS and Gazebo. The program runs the ROS navigation stack on top of the simulated hardware, which enables the robot to move from one point to another while avoiding obstacles. Localization is made using adaptive Monte Carlo from the laser sensor input while path finding is based on A*. The environment map on the right was previously built using Fast SLAM:
 
 <center>
 <video width="320" height="240" controls>
