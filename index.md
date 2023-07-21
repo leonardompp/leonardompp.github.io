@@ -1,6 +1,6 @@
 ## My Bio
 
-My name is Leonardo Mouta. I am an aerospace engineer (MS - ISAE-SUPAERO, France; BS - Aeronautics Institute of Technology (ITA), Brazil), specializing in autonomous systems and fluid dynamics.
+My name is Leonardo Mouta. I am currently a Master's student at Carnegie Mellon University's Robotics System development program, class of 2025. Although currently a roboticist, my background is as an aerospace engineer (MS - ISAE-SUPAERO, France; BS - Aeronautics Institute of Technology, Brazil), specializing in autonomous systems and fluid dynamics. I also dabble in quantum computing (Minor Degree in Engineering Physics - Aeronautics Institute of Technology, Brazil) and cybersecurity.
 
 ### Fields of Interest
 
