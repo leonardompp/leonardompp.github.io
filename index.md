@@ -59,6 +59,15 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 </video>
 </center>
 
+* I developed this demonstration while working at the JPMorgan Chase & Co. AI Maker Space. My boss had asked me to do something nice with the drones for Christmas :-). In this video, the drones spiral along a common axis, changing their colors as a function of their position. 
+
+<center>
+<video width="320" height="240" controls>
+  <source src="https://leonardompp.github.io/assets/videos/drone_lights.mp4" type="video/mp4">
+</video>
+</center>
+
+
 ### Lecture Notes
 
 * <a href="https://leonardompp.github.io/assets/classes/PFC_F_1_Criptografia.pdf">Introduction to public-key cryptography</a> (Portuguese)
