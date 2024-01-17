@@ -59,11 +59,19 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 </video>
 </center>
 
-* I developed this demonstration while working at the JPMorgan Chase & Co. AI Maker Space. My boss had asked me to do something nice with the drones for Christmas :-). In this video, the drones spiral along a common axis, changing their colors as a function of their position. 
+* I developed this demonstration while working at the JPMorgan Chase & Co. AI Maker Space. My boss had asked me to do something nice with the drones for Christmas :-). In this video, the drones spiral along a common axis, changing their colors as a function of their position:
 
 <center>
 <video width="320" height="240" controls>
   <source src="https://leonardompp.github.io/assets/videos/drone_lights.mp4" type="video/mp4">
+</video>
+</center>
+
+* This video shows an exercise developed as part of the computer vision course at Carnegie Mellon University. Taking two pictures of the same object from different views, it is possible to 3D reconstruct the object from its 2D pictures:
+
+<center>
+<video width="320" height="240" controls>
+  <source src="https://leonardompp.github.io/assets/videos/reconstruct.mp4" type="video/mp4">
 </video>
 </center>
 
