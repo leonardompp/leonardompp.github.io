@@ -75,6 +75,14 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 </video>
 </center>
 
+* This video shows a Kinova arm which was tasked with grasping an object through a hole. As such, this project involved identification, planning under constraints and controls. Developed while I was working at the JPMorgan Chase & Co. AI Maker Space @ CMU:
+
+<center>
+<video width="320" height="240" controls>
+  <source src="https://leonardompp.github.io/assets/videos/arm_grab.mp4" type="video/mp4">
+</video>
+</center>
+
 
 ### Lecture Notes
 
