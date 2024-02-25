@@ -14,9 +14,9 @@ My main interest is autonomous systems, particularly focusing in:
 
 Other interests include cybersecurity, military history and literature. I also happen to know a vast collection of dad jokes and useless trivia.
 
-### CV
+### Resume
 
-Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.pdf">here</a> to download my CV
+Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.pdf">here</a> to download my resume.
 
 ### Technical Writings
 
