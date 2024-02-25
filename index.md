@@ -83,6 +83,14 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 </video>
 </center>
 
+* Monocular human 3D pose detection and reconstruction using an OpenVINO demo running on an Intel Movidius Neural Compute Stick VPU. Developed while I was working at the JPMorgan Chase & Co. AI Maker Space @ CMU:
+
+<center>
+<video width="320" height="240" controls>
+  <source src="https://leonardompp.github.io/assets/videos/ncs.mp4" type="video/mp4">
+</video>
+</center>
+
 
 ### Lecture Notes
 
