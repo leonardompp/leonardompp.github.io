@@ -1,6 +1,6 @@
 ## My Bio
 
-My name is Leo Mouta. I am currently a Master's student at Carnegie Mellon University's Robotics System Development program, class of 2025. Although currently a roboticist, my background is in aerospace engineering (MS - ISAE-SUPAERO, France; BS - Aeronautics Institute of Technology, Brazil), specializing in autonomous systems and fluid dynamics. I also dabble in quantum computing (Minor Degree in Engineering Physics - Aeronautics Institute of Technology, Brazil) and cybersecurity.
+My name is Ana Santos. I am a PhD student at the University of Pittsburgh's Katz Graduate School of Business. Although currently a roboticist, my background is in aerospace engineering (MS - ISAE-SUPAERO, France; BS - Aeronautics Institute of Technology, Brazil), specializing in autonomous systems and fluid dynamics. I also dabble in quantum computing (Minor Degree in Engineering Physics - Aeronautics Institute of Technology, Brazil) and cybersecurity.
 
 ### Fields of Interest
 
