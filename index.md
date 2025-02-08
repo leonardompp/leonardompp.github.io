@@ -23,11 +23,17 @@ The MRSD program at CMU includes a 3-semester capstone project, to be developed 
 
 Project video:
 
-```
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/haovz5Zk5SQ/0.jpg)](https://www.youtube.com/watch?v=haovz5Zk5SQ)
-```
+[![IMAGE ALT TEXT HERE](./assets/img/video_thumb.jpg)](https://www.youtube.com/watch?v=haovz5Zk5SQ)
 
 ### Videos
+
+- This project demonstrates a real-time home alarm system. It includes a PIR motion sensor, keypad, and buzzer, running on a nrf52840 MCU/Cortex-M4 processor. Features include password hashing in kernel space, user-space separation, real-time task scheduling, and custom peripheral drivers. The system ensures secure authentication, motion-triggered alarms, and a stealthy panic mode that discreetly alerts authorities. All done in bare-metal C and ARM assembly!
+
+<center>
+<a href="https://www.youtube.com/watch?v=Pl0rZINVSGo">
+  <img src="https://img.youtube.com/vi/Pl0rZINVSGo/0.jpg" width="320">
+</a>
+</center>
 
 * Using AirSim, Unreal Engine, and Cesium Ion, I was able to generate a photorealistic map of Pittsburgh (centered around CMU). Enjoy the view!
 
