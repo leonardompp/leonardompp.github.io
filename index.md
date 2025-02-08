@@ -1,15 +1,15 @@
 ## My Bio
 
-My name is Leo Mouta. I am currently a Master's student at Carnegie Mellon University's Robotics System Development program, class of 2025. Although currently a roboticist, my background is in aerospace engineering (MS - ISAE-SUPAERO, France; BS - Aeronautics Institute of Technology, Brazil), specializing in autonomous systems and fluid dynamics. I also dabble in quantum computing (Minor Degree in Engineering Physics - Aeronautics Institute of Technology, Brazil) and cybersecurity.
+My name is Leo Mouta. I am currently a Master's student at Carnegie Mellon University's Robotics System Development program, class of 2025. Although currently a roboticist, my background is in aerospace engineering (MS - ISAE-SUPAERO, France; BS - Aeronautics Institute of Technology, Brazil). I also dabble in quantum computing (Minor Degree in Engineering Physics - Aeronautics Institute of Technology, Brazil) and cybersecurity.
 
 ### Fields of Interest
 
 My main interest is autonomous systems, particularly focusing in:
 
+* Embedded systems
 * Autonomy and planning
-* Machine learning for robotics
 * Guidance and navigation
-* Control theory
+* Control theory 
 
 Other interests include cybersecurity, military history and literature. I also happen to know a vast collection of dad jokes and useless trivia.
 
@@ -19,7 +19,13 @@ Click <a href="https://leonardompp.github.io/assets/documents/Leonardo_Mouta_CV.
 
 ### CMU Capstone Project
 
-The MRSD program at CMU includes a 3-semester capstone project, to be developed by student teams. I was part of team CreoClean, which used robotics to clean toxic creosote from our sponsor's (Koppers Inc.) factories. Link to the team's website <a href="https://mrsdprojects.ri.cmu.edu/2024teama/">here</a>.
+The MRSD program at CMU includes a 3-semester capstone project, to be developed by student teams. I was part of team CreoClean, which used robotics to clean toxic creosote from factories. Sponsored by Koppers Inc. Link to the team's website <a href="https://mrsdprojects.ri.cmu.edu/2024teama/">here</a>.
+
+Project video:
+
+```
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/haovz5Zk5SQ/0.jpg)](https://www.youtube.com/watch?v=haovz5Zk5SQ)
+```
 
 ### Videos
 
